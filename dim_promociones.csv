@@ -1,0 +1,8 @@
+promo_id,nombre,fecha_inicio,fecha_fin,local_id,categoria_afectada,descuento_pct
+1,Menú Semana Santa,2025-04-14,2025-04-21,,Menú del día,0.1
+2,Blue Monday -20% Pasta,2025-01-20,2025-01-26,,Pasta,0.2
+3,Verano Costa Brava 2x1 Postres,2024-08-01,2024-08-15,4.0,Postres,0.3
+4,Reapertura Gràcia,2025-02-06,2025-02-16,2.0,,0.15
+5,Lanzamiento Bracet Figueres,2025-03-15,2025-03-31,6.0,,0.15
+6,Fires de Girona - Menú especial,2024-10-24,2024-10-27,3.0,Menú del día,0.1
+7,Nadal 2025 - Vino de regalo,2025-12-15,2025-12-31,,Bebidas,0.12

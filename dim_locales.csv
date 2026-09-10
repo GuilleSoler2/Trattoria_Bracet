@@ -1,0 +1,7 @@
+local_id,nombre,ciudad,provincia,tipo_zona,fecha_apertura,m2,capacidad_comensales
+1,Bracet Eixample,Barcelona,Barcelona,Urbana,2019-03-01,180,70
+2,Bracet Gràcia,Barcelona,Barcelona,Urbana,2020-09-15,120,48
+3,Bracet Girona Centre,Girona,Girona,Turística media,2021-05-10,140,55
+4,Bracet Blanes,Blanes,Girona,Turística alta,2018-04-01,160,64
+5,Bracet Lloret de Mar,Lloret de Mar,Girona,Turística alta,2019-06-01,200,85
+6,Bracet Figueres,Figueres,Girona,Turística media,2025-03-15,130,52
